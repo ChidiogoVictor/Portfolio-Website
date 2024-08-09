@@ -12,8 +12,8 @@ const WorkCardData = [
 
     {
         imgsrc: pro2,  
-        title: "Programming Company Website Design",
-        text: " This is a Programming Company website used for communicating with clients, it makes it easy for customers to have direct access to developers and make requests and Negotiate.",
+        title: "Programming Website Design",
+        text: " This is a Programming Company website used for communicating with clients, for customers to have direct access to developers and make requests.",
         view: "https://www.google.com"
     },
 
