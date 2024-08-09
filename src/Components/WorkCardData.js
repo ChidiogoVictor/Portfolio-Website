@@ -1,6 +1,6 @@
-import pro1 from "../Assets/pro1.png"
-import pro2 from "../Assets/pro2.png"
-import pro3 from "../Assets/pro3.png"
+import pro1 from "../Assets/E-commerce.png"
+import pro2 from "../Assets/Programming.png"
+import pro3 from "../Assets/Crypto.png"
 
 const WorkCardData = [
     {
