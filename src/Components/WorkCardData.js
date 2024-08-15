@@ -1,5 +1,5 @@
 import pro1 from "../Assets/E-commerce.png"
-import pro2 from "../Assets/Programming.png"
+import pro2 from "../Assets/Portfolio img.png"
 import pro3 from "../Assets/Crypto.png"
 
 const WorkCardData = [
@@ -12,9 +12,9 @@ const WorkCardData = [
 
     {
         imgsrc: pro2,  
-        title: "Programming Website",
-        text: " This is a Programming Company website used for communicating with clients, for customers to have direct access to developers and make requests.",
-        view: "https://www.google.com"
+        title: "Portfolio Website",
+        text: " This is my personal website, for communicating  my skills as a frontend developer and displaying my personal projects and  collaborations",
+        view: "https://portfolio-website-six-green.vercel.app/"
     },
 
     {
