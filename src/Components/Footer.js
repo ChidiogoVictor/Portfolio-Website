@@ -1,8 +1,8 @@
 import "./FooterStyles.css";
 
 import React from 'react'
-
-import { FaHome, FaPhone, FaMailBulk, FaFacebook, FaTwitter, FaLinkedin, FaGithub } from "react-icons/fa"
+import { FaXTwitter } from "react-icons/fa6";
+import { FaHome, FaPhone, FaMailBulk, FaFacebook, FaLinkedin, FaGithub } from "react-icons/fa"
 
 
 const Footer = () => {
@@ -35,7 +35,7 @@ const Footer = () => {
                         <FaGithub size={30} style={{color: "white", marginRight: "2rem"}}/>
                     </a>
                     <a href="https://twitter.com/VictorChidiogo?s=09" target="_blank" rel="noopener noreferrer">
-                        <FaTwitter size={30} style={{color: "white", marginRight: "2rem"}} />
+                        <FaXTwitter size={30} style={{color: "white", marginRight: "2rem"}} />
                     </a>
                     <a href="https://www.linkedin.com/in/victor-eze-07948624a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer">
                         <FaLinkedin size={30} style={{color: "white", marginRight: "2rem"}} />
